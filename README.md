@@ -1,6 +1,6 @@
 # Employee Management System
 
-This is a Spring Boot backend application for an Employee Management System. It provides RESTful API endpoints to manage employee data.
+# This is a Spring Boot backend application for an Employee Management System. It provides RESTful API endpoints to manage employee data.
 
 ## Features
 
